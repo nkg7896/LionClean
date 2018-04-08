@@ -1,2 +1,2 @@
 # LionClean
-Penn State based cleaning application
+LionCleanup is an application that users can choose to be a cleaner or have their apartment/house cleaned. This follows the gig economy business model with in-app transactions and a location function. This will be built in Swift with a backend database. Original development can use dummy data and will serve as. Development will loosely follow the Agil Methodology with user stories, product backlog, and project estimates The main goal for this application is to be put on the IOS store, once developed the team will talk to the Happy Valley Launch Box funding. 
